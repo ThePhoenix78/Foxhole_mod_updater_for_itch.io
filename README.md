@@ -1,5 +1,5 @@
 # Foxhole_mod_updater_for_itch.io
-## A mod updater for foxhole
+## A mod updater for foxhole, fully written in native python so no need to install external packages
 
 I am not responsible for what you do with it
 
